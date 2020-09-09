@@ -1,2 +1,2 @@
 # dangerboy
-this is just a playing ground for the website!
+this is just a playground for the website!

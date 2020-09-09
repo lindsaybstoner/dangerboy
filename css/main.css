@@ -9,3 +9,8 @@ body {
     background: black;
     display: flex;
 }
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
